@@ -1,0 +1,12 @@
+body {
+  background: #72bcf9;
+}
+input {
+  border: none;
+  background-color: transparent;
+}
+
+input:focus {
+  outline: none;
+  background-color: transparent;
+}
